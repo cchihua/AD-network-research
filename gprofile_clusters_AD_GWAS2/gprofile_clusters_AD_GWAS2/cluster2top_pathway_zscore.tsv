@@ -1,0 +1,18 @@
+	cluster	num_genes_in_cluster	p-value	pathway	term_ID
+0	1	75	1.13e-12	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	REAC:R-HSA-198933
+0	2	73	6.76e-17	RNA metabolic process	GO:0016070
+0	3	55	4.84e-33	complement activation	GO:0006956
+0	4	55	6.3e-14	protein modification by small protein conjugation	GO:0032446
+0	5	53	1.56e-46	Clathrin-mediated endocytosis	REAC:R-HSA-8856828
+0	6	52	2.88e-15	SNARE binding	GO:0000149
+0	7	49	6.05e-16	regulation of plasma lipoprotein particle levels	GO:0097006
+0	8	48	3.42e-26	EPH-Ephrin signaling	REAC:R-HSA-2682334
+0	9	33	1.36e-13	DNA-binding transcription factor activity	GO:0003700
+0	10	33	5.81e-22	acetylcholine-gated cation-selective channel activity	GO:0022848
+0	12	31	1.18e-05	GABAergic synapse	KEGG:04727
+0	11	31	2.48e-08	Interleukin-1 signaling	REAC:R-HSA-9020702
+0	13	24	1.06e-15	AP-type membrane coat adaptor complex	GO:0030119
+0	14	21	2.49e-07	ubiquitin-like protein-specific protease activity	GO:0019783
+0	15	20	0.00017	ZAG-PIP complex	CORUM:6822
+0	16	18	7.87e-12	Porphyrin and chlorophyll metabolism	KEGG:00860
+0	17	11	3.03e-12	cellular iron ion homeostasis	GO:0006879
