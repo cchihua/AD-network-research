@@ -10,6 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 * UCSD CCBB's [network-bio-toolkit](https://github.com/ucsd-ccbb/network_bio_toolkit): Follow the documentation for installation procedure.
+##### Note: Must use ndex2 version 1.2.0.56 (`pip install ndex2==1.2.0.56`), and networkx version 1.11 (`pip install networkx==1.11`)
 * [Jupyter Notebook](https://jupyter.org/) (Anaconda install recommended.)
 * Python
 
